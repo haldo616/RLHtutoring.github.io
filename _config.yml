@@ -27,7 +27,7 @@ bing_verify:
 color:
   primary: B1D9B7
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  secondary: 000000 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
