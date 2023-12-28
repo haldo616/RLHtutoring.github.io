@@ -1,11 +1,24 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2023-12-28
+img: AboutMe.png
 alt: image-alt
-project-date: April 2014
+project-date: December 2023
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: About me
+Hi, I’m Rachel Haldenby and I set up RLH Tutoring in January 2023 after gaining 19 years maths teaching experience teaching up to A level in a variety of Comprehensive and Grammar schools across Yorkshire and Lincolnshire. I have proven results in school and with all the children I have tutored over the last 20 years, both in improving confidence and in grade outcomes as my testimonials page will attest to.
+From a teaching and academic background perspective, I have a first-class degree in Mathematics with European Studies from The University of Sussex (1995) and PGCE from Leeds University (2005) alongside my Qualified Teaching Status Certificate gained in 2006. I originally qualified as a Chartered Accountant working at companies including PwC, Skipton Building Society and Virgin Media before being able to embark on a career in education, my true passion. Having real world experience allows me to also give students practical learning tips. 
+My passion comes from really enjoying helping people build their confidence, understand how important problem-solving skills are in life (not just in maths!) and to blossom in all that they do, allowing them to have as many choices as possible as they start out in their careers after school and University. 
+Sessions are much more than just maths - each child has differing reasons for wanting maths tuition and has different skills and areas that we need to work on. Having worked with hundreds of children I am able to quickly identify these specific needs, ensuring explanations are at the right level, support is given at the right time and that we work together to ensure the right balance of support and challenge is given and good progress occurs. 
+I believe a key to success is ensuring children are having fun and learning at the same time. Getting to know each child and being able to relate to them on their level is important and will ensure they look forward to their maths sessions, whether it’s to gain a grade 4 at GCSE or an A* at A level. Gauging how a child’s day has gone and whether they need a more challenging session or a recap lesson to build confidence or answer some queries in a particular topic are all part of the service to maximise success. 
+Children in exam years are coached through the whole process so they know what to expect at each stage. As a result, anxiety is reduced and they are able to show themselves in their best light at exam time. This goes for parents too; it has often been a long time since they were at school so talking them through the process and ways in which to support their child at home, for what can be quite a daunting time, is an important part of my role, along with advice on how to navigate post 16 or 18 pathways.
+As a parent of children with ADHD and ASD and having taught many students with varying specific educational needs, I understand the difficulties that can sometimes arise and have the skills and sensitivity to work around this so that children can progress in the way that suits them best, whether that be more active sessions, giving time and space to process information, regular breaks, or specific coloured paper. We are all vastly different people, this is what makes us so fascinating, and this is why my offering is always bespoke to each individual student.
+Quotes that will be on the side of the home page:
+‘He got an 8!!! So proud. Thankyou so much for everything you have done for him. We really appreciate it xxx.’
+‘Hiya, done a maths paper with my daughter tonight – she was amazing! Haven’t done one with her since she started with you. Difference is mega…thankyou for what you’ve done so far.’
+‘Can’t thank you enough it’s the most positive I’ve ever seen my daughter about her maths I’m very grateful x.’
+‘I honestly can’t thank you enough. I don’t know what I would have done without you. I’ve loved every session so much.’
+‘Thankyou so much for your help, you helped improve my confidence so much.’
 ---
